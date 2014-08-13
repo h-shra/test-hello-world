@@ -1,4 +1,4 @@
 test-hello-world
 ================
 
-test repor for hello world
+test repo for hello world
